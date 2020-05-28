@@ -9,7 +9,7 @@ actors:
     url: https://twitter.com/t2hnd
 author: eiji
 description: Search & DiscoveryプラットフォームのAlgoliaのPodcastです🔎
-description_long: 毎週1回、日本で働くAlgoliaのメンバーを中心にお届けします。
+description_long: 毎週1回、日本で働くAlgoliaのメンバーを中心にAlgoliaに関連する情報をお届けします。
 email: eiji@algolia.com
 exclude:
   - docker
@@ -19,7 +19,7 @@ exclude:
   - LICENSE.txt
   - README.md
   - vendor
-google_analytics:
+google_analytics: UA-2489832-7
 hashtag: AlgoliaJP
 itunes_podcast_url:
 keywords: algolia,search,saas
