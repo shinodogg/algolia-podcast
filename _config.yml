@@ -8,7 +8,7 @@ actors:
     name: Tatsuro
     url: https://twitter.com/t2hnd
 author: Eiji Shinohara
-description: Search & DiscoveryプラットフォームのAlgoliaのPodcastです🔎
+description: Search and DiscoveryプラットフォームのAlgoliaのPodcastです🔎
 description_long: 毎週1回、日本で働くAlgoliaのメンバーを中心にAlgoliaに関連する情報をお届けします。
 email: eiji@algolia.com
 exclude:
